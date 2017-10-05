@@ -7,7 +7,6 @@ Create a function removeFromPlaylist that accepts two arguments (the playlist ob
 
 var playlist = { artist1: "song1" }
 function updatePlaylist(playlist, artistName, songTitle){
-  var = artistName
-  //playlist[artistName]= 'songTitle'
+
   return playlist
 }
